@@ -1,1 +1,1 @@
-Proyectos de programacion en python.
+Programacion en python.
